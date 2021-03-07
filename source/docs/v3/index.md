@@ -22,6 +22,7 @@ There are also several client implementation in other languages, which are maint
 - Dart: https://github.com/rikulo/socket.io-client-dart
 - Python: https://github.com/miguelgrinberg/python-socketio
 - .Net: https://github.com/Quobject/SocketIoClientDotNet
+- .Net : https://github.com/uhm0311/SocketIOSharp
 
 ### How does that work?
 
